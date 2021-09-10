@@ -4,7 +4,7 @@
 
 ## Projeto 1: 2019-2 - SIGMA - Sistema Inteligente de Gerenciamento Manual de Ambiente
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/546e0ae6-70a0-445c-9b33-6f336a93c97d/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56441318/132886130-f3f8a69e-8222-433c-8654-af9d656dccc6.png)
 
 ### Parceiro Acadêmico
 
