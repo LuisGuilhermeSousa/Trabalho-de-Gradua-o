@@ -39,11 +39,26 @@ HARDWARE
 - **NodeMCU** - O microcontrolador NodeMCU é uma plataforma open-source para a criação de projetos *Internet of Things (Iot),* considerado o celebro físico do projeto, essa placa é responsável por enviar os sinais elétricos para os periféricos, receber e enviar dados via Wi-Fi e também receber a programação que faz tudo isso funcionar.
 - Para os periféricos, simulando as luzes de uma residencia, utilizamos alguns LED's convencionais e outros do tipo RGB, onde o usuário pode escolher a cor da luz do ambiente. Também utilizamos um cooler para simular o controle do sistema de climatização da casa.
 
+### Circuito elétrico
+![image](https://user-images.githubusercontent.com/56441318/133184318-2bcf21c5-4432-487e-b9dc-9ad8c569c268.png)
+
+### Foto do protótipo
+![image](https://user-images.githubusercontent.com/56441318/133184553-3908d44b-c6ee-4b59-950c-c2b0f51a6afb.png)
+
 SOFTWARE
 
 - **C++** - A linguagem de programação utilizada no projeto foi a C++. É uma linguagem multiplataforma que no projeto fui usada para fazer a programação da placa NodeMCU, controlando o recebimento de dados vindos do aplicativo (Blynk) e o envio de dados por meio físico para os periféricos.
 - **Arduino IDE** - Ambiente de programação usado para o desenvolvimento do código. É muito usado em projetos de robótica e de Iot, sendo prático e funcional para a aplicação do projeto.
 - **Blynk** - Aplicativo voltado para o desenvolvimento de aplicações Mobile voltadas para Iot. Nele, foi feito o desenvolvimento da interface usada pelo usuário para controlar todo o sistema, bem como receber e enviar dados das diversas funcionalidades do projeto.
+
+![image](https://user-images.githubusercontent.com/56441318/133183938-8cefeee0-cdfc-493f-84d2-024b75aae4aa.png)
+
+Tela de login da aplicação
+
+
+-
+![image](https://user-images.githubusercontent.com/56441318/133184068-aafd18a6-6ca8-4142-91ae-46e986157036.png)
+Telas de navegação da aplicação
 
 ### Contribuições pessoais (Individual)
 
