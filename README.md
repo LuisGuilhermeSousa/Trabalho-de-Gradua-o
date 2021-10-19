@@ -5,3 +5,5 @@ Olá! Me chamo Luis Guilherme, tenho 20 anos e atualmente estou cursando Anális
 Ainda no técnico desenvolvi meu primeiro projeto web, onde desenvolvemos um site para nossa empresa e para uma empresa parceira de venda de produtos veganos. Nesse projeto, implantamos um cardápio, a história da empresa e também o painel de controle do administrador, algo simples, mas que foi de grande serventia para minha carreira no futuro.
 
 Alguns anos depois, já na Fatec, desenvolvi junto aos meus colegas diversos projetos para várias empresas parceiras, cada um com um problema a ser resolvido e com suas características. Neste documento, vou contar um pouco sobre cada um deles.
+
+- [2019-2 (Primeiro Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-1-Semestre.md)
