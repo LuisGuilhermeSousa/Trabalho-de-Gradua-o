@@ -1,4 +1,7 @@
 # Hi, I'm Luis!
+
+![pic_Prancheta 1](https://user-images.githubusercontent.com/56441318/138004510-e4fc9d45-eb6c-4354-88c5-f67e9e8e56a6.png)
+
 ## Sobre mim
 Olá! Me chamo Luis Guilherme, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos. Minha carreira como programador começou em 2015 quando eu iniciei o curso técnico de informática junto com o ensino médio, na época, eu estava aprendendo a programar em C++, depois passei para a linguagem Java e no último ano do curso fiquei mais na parte web, usando HTML, CSS e PHP como base.
 
