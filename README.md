@@ -7,3 +7,5 @@ Ainda no técnico desenvolvi meu primeiro projeto web, onde desenvolvemos um sit
 Alguns anos depois, já na Fatec, desenvolvi junto aos meus colegas diversos projetos para várias empresas parceiras, cada um com um problema a ser resolvido e com suas características. Neste documento, vou contar um pouco sobre cada um deles.
 
 - [2019-2 (Primeiro Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-1-Semestre.md)
+- [2020-1 (Segundo Semestre)]()
+- [2019-2 (Terceiro Semestre)]()
