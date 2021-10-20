@@ -1,4 +1,4 @@
-# Projeto 2: 2020-2 - UDA Brasil
+# Projeto 2: 2020-1 - UDA Brasil
 
 ![udabrasil](https://user-images.githubusercontent.com/56441318/138007015-903b6f49-11ae-423f-a04f-fb109281f4bc.png)
 
