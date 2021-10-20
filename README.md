@@ -12,4 +12,4 @@ Alguns anos depois, já na Fatec, desenvolvi junto aos meus colegas diversos pro
 
 - [2019-2 (Primeiro Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-1-Semestre.md)
 - [2020-1 (Segundo Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-2-Semestre.md)
-- [2020-2 (Terceiro Semestre)]()
+- [2020-2 (Terceiro Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-3-Semestre.md)
