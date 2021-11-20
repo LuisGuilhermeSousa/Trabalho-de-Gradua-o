@@ -55,12 +55,17 @@ Telas de navegação da aplicação
 
 No desnvolvimente deste projeto fiquei encarregado das tarefas de montagem do circuito elétrico, ligando e testando os terminais da placa Node MCU, além de ficar responsável pela programação do algoritmo que controla toda a parte elétrica do projeto. O algoritmo era responsável por controlar como e quando os periféricos deveriam funcionar. Por último, também fui responsável por programar a interface do usuário para controlar todo o sistema. A interface consistia em um aplicativo desenvolvido na plataforma Blynk que fazia a comunicação com a placa e enviava os comandos do usuário por Wi-Fi, fazendo assim o sistema funcionar.
 
-### Aprendizados Efetivos - Hard Skills
-
-Com relação à parte técnica do projeto, considero que houve um crescimento muito grande com as tecnologias utilizadas, a grande maioria delas eu não havia tido a oportunidade de trabalhar antes, como a placa NodeMCU e a linguagem C++ para a programação. Em ambas, considero que hoje sei fazer com autonomia um novo projeto utilizando estas tecnologias, basta apenas dar uma pequena relembrada nos conceitos mais específicos, porém a base está bem consolidada.
-
 ### Aprendizados Efetivos - Soft Skills
 
 O projeto foi uma ótima oportunidade para se introduzir na metodologia Scrum, com entregas de valor e separadas em Sprints. Todos do grupo nunca tinham trabalhado dessa forma, então foi um grande desafio para todos se adequar ao novo modelo. Na minha parte, acredito que o aprendizado foi muito efetivo, não só pelas Hard Skills das tecnologias novas, mas sim pelo novo modelo de trabalho Scrum, que com certeza será usado nos demais projetos da faculdade.
 
-Todos os tópicos mostrados acima, considero-os como aprendizado efetivo e sei fazer com autonomia.
+### Aprendizados Efetivos - Hard Skills
+
+Com relação à parte técnica do projeto, considero que houve um crescimento muito grande com as tecnologias utilizadas, a grande maioria delas eu não havia tido a oportunidade de trabalhar antes, como a placa NodeMCU e a linguagem C++ para a programação. Em ambas, considero que hoje sei fazer com autonomia um novo projeto utilizando estas tecnologias, basta apenas dar uma pequena relembrada nos conceitos mais específicos, porém a base está bem consolidada.
+Das tecnologias que considero que mais aprendi nesse projeto, destaco as seguintes:
+
+### Aprendizados Efetivos
+- Programação da placa nodeMCU - Sei fazer com autonomia
+- Montagem do circuito elétrico - Sei fazer com autonomia
+- Desenvolvimento do aplicativo - Sei fazer com autonomia
+- Uso da metodologia ágil SCRUM - Sei fazer com autonomia
