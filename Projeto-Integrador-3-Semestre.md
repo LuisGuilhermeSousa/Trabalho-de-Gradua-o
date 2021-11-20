@@ -24,7 +24,7 @@ Além disso, para se registrar e logar na aplicação utilizamos um token cripto
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56441371/98485048-70035180-21f2-11eb-909e-3cec1c97d671.gif)
 
-#### - Usabilidade pensando na simplicidade:
+#### Usabilidade pensando na simplicidade:
 
 Autenticação no banco de dados de maneira simples.
 
