@@ -58,8 +58,17 @@ Conseguimos também facilmente, baixar todos os shapefiles salvos no banco de da
 ### Contribuições pessoais 
 Neste projeto fiquei responsável pelo front-end da aplicação, mais especificamente no desenvolvimento das telas de Login e cadastro, Visualização da carga de arquivos e do design  da aplicação utilizando a ferramenta Figma para fazer os primeiros protótipos de como seria a aparência e a usabilidade da aplicação.
 
-### Aprendizados Efetivos - Hard Skills
-Foi um excelente projeto para ter contato com arquivos e dados geográficos, nos quais nenhum dos integrantes do grupo havia trabalhado antes, então foi uma oportunidade muito boa para conhecer a extensão PostGis do banco de dados Postgree, específica para arquivos geográficos. Também foi o primeiro projeto que foi usado React no front-end, permitindo assim criar interfaces muito mais intuitivas e dinâmicas para o usuário, além de uma boa variedade de ferramentas como Python, Java e Docker usadas no back-end.
 
 ### Aprendizados Efetivos - Soft Skills
 Já com as soft skills, a grande novidade foi ter contato com uma empresa tão renomada em uma área totalmente desconhecida por nosso time, então tivemos um contato bem próximo, sempre enviando dúvidas e recebendo feedbacks sobre o andamento do projeto. Com relação a metodologia Scrum, apenas aperfeiçoamos o que já estava bem conhecido entre nosso time com entregas de valor priorizando sempre o mais útil para o nosso cliente.
+
+### Aprendizados Efetivos - Hard Skills
+Foi um excelente projeto para ter contato com arquivos e dados geográficos, nos quais nenhum dos integrantes do grupo havia trabalhado antes, então foi uma oportunidade muito boa para conhecer a extensão PostGis do banco de dados Postgree, específica para arquivos geográficos. Também foi o primeiro projeto que foi usado React no front-end, permitindo assim criar interfaces muito mais intuitivas e dinâmicas para o usuário, além de uma boa variedade de ferramentas como Python, Java e Docker usadas no back-end.
+
+###### Aprendizados Efetivos
+- Linguagem Java - Sei fazer com ajuda
+- Linguagem Python - Sei fazer com autonomia
+- Flask - Sei fazer com ajuda
+- Docker - Sei fazer com ajuda
+- React - Sei fazer com ajuda
+- Styled Components - Sei fazer com ajuda
