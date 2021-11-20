@@ -24,7 +24,7 @@ Além disso, para se registrar e logar na aplicação utilizamos um token cripto
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56441371/98485048-70035180-21f2-11eb-909e-3cec1c97d671.gif)
 
-#### Usabilidade pensando na simplicidade:
+#### - Usabilidade pensando na simplicidade:
 
 Autenticação no banco de dados de maneira simples.
 
@@ -65,7 +65,7 @@ Já com as soft skills, a grande novidade foi ter contato com uma empresa tão r
 ### Aprendizados Efetivos - Hard Skills
 Foi um excelente projeto para ter contato com arquivos e dados geográficos, nos quais nenhum dos integrantes do grupo havia trabalhado antes, então foi uma oportunidade muito boa para conhecer a extensão PostGis do banco de dados Postgree, específica para arquivos geográficos. Também foi o primeiro projeto que foi usado React no front-end, permitindo assim criar interfaces muito mais intuitivas e dinâmicas para o usuário, além de uma boa variedade de ferramentas como Python, Java e Docker usadas no back-end.
 
-###### Aprendizados Efetivos
+### Aprendizados Efetivos
 - Linguagem Java - Sei fazer com ajuda
 - Linguagem Python - Sei fazer com autonomia
 - Flask - Sei fazer com ajuda
