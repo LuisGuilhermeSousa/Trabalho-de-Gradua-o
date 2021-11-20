@@ -41,3 +41,8 @@ Com relação as hard skills, foi uma oportunidade do grupo como um todo se apro
 ### Aprendizados Efetivos - Soft Skills
 Neste projeto foi a primeira vez que tivemos um contato mais forte com o mundo real, onde tivemos a oportunidade de falar diretamente com a empresa parceira como cliente e tirar todas as dúvidas com eles. Isso fez com que eu evoluísse muito nessa questão de contato com o cliente, extrair o feedback deles, e ter um relacionamento profissional entre um cliente com todos os seus requisitos. Além de tudo, foi o primeiro projeto em que a metodologia Scrum foi usada a risca e com entregas de valor sendo muito mais pontuadas do que algum código qualquer da aplicação.
 
+
+### Aprendizados Efetivos
+- Tratamento e raspagem de dados com Python - Sei fazer com ajuda
+- Front-end da aplicação usando o flask - Sei fazer com ajuda
+- Contato com um cliente real - Sei fazer com autonomia
