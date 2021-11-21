@@ -26,3 +26,6 @@ Neste projeto foi desenvolvido um sistema de automação residencial, onde o usu
 
 - [2021-1 (Quarto Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-4-Semestre.md):
 Nesse projeto o problema apresentado foi bem diferente do que o grupo estava habituado. Nossa missão foi fazer um sistema de gerenciamento de atas para reuniões online, onde o usuário poderia criar, gerenciar, aprovar, editar e compartilhar as atas feitas durante sua reunião. Por minha parte fiquei responsável por ajudar no front-end, na criação do design da aplicação e também na documentação, que foi algo muito reforçado neste projeto.
+
+- [2021-2 (Quinto Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-5-Semestre.md):
+Esse foi um dos meus projetos favoritos, criamos uma plataforma de venda e compra de carros, tanto na plataforma web, quanto na plataforma mobile. Neste projeto o usuário pode anunciar, visualizar, buscar por veículos e entrar em contato com o vendedor através do nosso chat integrado. Por minha parte, fiquei responsável pela criação da identidade visual do projeto e do design das telas, desenvolvimento do front-end tanto na web quanto no mobile, além de ajudar na documentação como um todo.
