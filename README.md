@@ -10,6 +10,10 @@ Ainda no técnico desenvolvi meu primeiro projeto web, onde desenvolvemos um sit
 
 Alguns anos depois, já na Fatec, desenvolvi junto aos meus colegas diversos projetos para várias empresas parceiras, cada um com um problema a ser resolvido e com suas características. Neste documento, vou contar um pouco sobre cada um deles.
 
+### Contato
+- [LinkedIn](https://www.linkedin.com/in/luis-guilherme-a17b58185/)
+
+### Projetos desenvolvidos
 - [2019-2 (Primeiro Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-1-Semestre.md):
 Neste projeto foi desenvolvido um sistema de automação residencial, onde o usuário pode controlar e monitorar sua casa através do seu celular de onde ele estiver, facilitando ao máximo sua experiência e ajudando no controle de energia elétrica. Neste projeto fiquei responsável pela montagem do circuito elétrico, programação do circuito e desenvolvimento da aplicação que o usuário teria contato.
 
