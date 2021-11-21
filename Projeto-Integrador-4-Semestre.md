@@ -36,3 +36,16 @@ as suas atas, editá-las, mandar para aprovação e ver quais estão pendentes. 
 ### Contruibuições pessoais
 Neste projeto fiquei responsável por ajudar no front-end da aplicação, na criação das telas de login e página principal da aplicação, também fiquei responsável por documentar
 grande parte das funcionalidades do projeto, além de auxiliar na criação do design no Figma
+
+### Aprendizados Efetivos - Soft Skills
+Com relação as soft skills, nosso grupo já estava muito mais entrosado e pudemos trabalhar como uma equipe estruturada, com divisão bem estabelecida entre os setores do projeto como back-end, front-end e design. Continuamos aplicando a metodologia SCRUM no desenvolvimento, ainda mais aprimorada e já muito familiar entre os integrantes do grupo. A novidade neste projeto foi o estudo e entendimento que uma ata pode ter em uma reunião, sendo essencial para a documentação de um projeto e entendimento por parte de todos os participantes
+
+### Aprendizados Efetivos - Hard Skills
+Já com as hard skills, utilisei as mesmas tecnologias que já estava acostumado, entre elas o React, a biblioteca Styled-Component, além do desing muito mais focado na usabilidade do que na aparencia, de forma a ser muito mais intuitivo e prático para o usuário. Outro ponto que apendi bastante foi a questão da autenticação, onde nosso grupo usou um token enviado por e-mail para que o usuário pudesse se cadastrar na plataforma de uma forma mais segura, de maneira a protejer seus dados.
+
+### Aprendizados Efetivos
+- Typescript - Sei fazer com ajuda
+- NodeJS - Sei fazer com ajuda
+- ReactJS - Sei fazer com autonomia
+- Styled Componets - Sei fazer com autonomia
+- PostGres - Sei fazer com ajuda
