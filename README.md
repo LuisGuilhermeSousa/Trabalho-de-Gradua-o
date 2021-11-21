@@ -18,3 +18,6 @@ Neste projeto foi desenvolvido um sistema de automação residencial, onde o usu
 
 - [2020-2 (Terceiro Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-3-Semestre.md):
   Esse projeto tinha como finalidade a conversão, extração e carga de arquivos do tipo shapefile para que eles pudessem ser armazenados em um banco de dados geográfico. A ideia foi fazer um sistema onde a empresa parceira pudesse ter mais agilidade no seu trabalho, sem se preocupar em ter que ficar convertendo e alterando colunas dos arquivos geográficos por conta própria, deixando nossa aplicação responsável por isso. Neste projeto fiquei responsável pelo front-end da aplicação, mais especificamente no desenvolvimento das telas de Login e cadastro, visualização da carga de arquivos e do design da aplicação utilizando a ferramenta Figma para fazer os primeiros protótipos de como seria a aparência e a usabilidade da aplicação.
+  
+
+- [2021-1 (Quarto Semestre)](https://github.com/LuisGuilhermeSousa/Trabalho-de-Graduacao/blob/main/Projeto-Integrador-4-Semestre.md)
