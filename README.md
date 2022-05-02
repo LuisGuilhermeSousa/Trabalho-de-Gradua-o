@@ -10,6 +10,9 @@ Ainda no técnico desenvolvi meu primeiro projeto web, onde desenvolvemos um sit
 
 Alguns anos depois, já na Fatec, desenvolvi junto aos meus colegas diversos projetos para várias empresas parceiras, cada um com um problema a ser resolvido e com suas características. Neste documento, vou contar um pouco sobre cada um deles.
 
+## Principais conhecimentos
+Com relação aos meus principais conhecimentos, tenho foco no desenvolvimento front-end das aplicações, mais especificamente utilizando os frameworks React e React Native. Além disso atuo no desenvolvimento do Design das telas, aplicando as melhores práticas de UX/UI Design de forma a ter os layouts mais responsivos e acessíveis para o usuário.
+
 ### Contato
 - [LinkedIn](https://www.linkedin.com/in/luis-guilherme-a17b58185/)
 
